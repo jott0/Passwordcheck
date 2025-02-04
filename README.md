@@ -4,7 +4,7 @@ A simple password strength checker application built using Python and the tkinte
 
 ---
 
-📌 FEATURES
+# 📌 FEATURES
 - ✅ **Password Length**: Minimum 6 characters
 - ✅ **Character Checks**: Must include uppercase, lowercase, digits, and special characters
 - ✅ **Strength Feedback**:
@@ -13,9 +13,7 @@ A simple password strength checker application built using Python and the tkinte
      - **Weak**: Fails to meet conditions
 - ❌ Feedback: Missing conditions (e.g., no uppercase, lowercase, digits, or special characters)
 
----
-
-📷 SCREENSHOTS
+# 📷 SCREENSHOTS
 
 -Password strength checker
 
