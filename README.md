@@ -18,9 +18,11 @@ A simple password strength checker application built using Python and the tkinte
 📷 SCREENSHOTS
 
 -Password strength checker
+
 ![image](https://github.com/user-attachments/assets/6816b061-8a5c-4735-b183-2aa3152f7108)
 
 - Message box
+
 ![image](https://github.com/user-attachments/assets/63f07cf1-fbd7-4d3a-94f9-700d11e5200d)
 
 ---
