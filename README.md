@@ -21,9 +21,7 @@ A simple password strength checker application built using Python and the tkinte
 
 ![image](https://github.com/user-attachments/assets/63f07cf1-fbd7-4d3a-94f9-700d11e5200d)
 
----
-
-⚙️ TECHNOLOGIES USED
+# ⚙️ TECHNOLOGIES USED
 - Python: For application
 - Tkinter: For building GUI
 - Messagebox: For showing the feedback
