@@ -2,8 +2,6 @@
 
 A simple password strength checker application built using Python and the tkinter library.
 
----
-
 # 📌 FEATURES
 - ✅ **Password Length**: Minimum 6 characters
 - ✅ **Character Checks**: Must include uppercase, lowercase, digits, and special characters
